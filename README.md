@@ -19,6 +19,7 @@ Project members:
 * **DeZiMatorZ** - `Producer, Retired Project Manager`
 
 Thanks to:
-* **Entwickler7aSv**
-* **iHDeveloper**
-* **vA7mad_** & **Aliiyah**
+* **Entwickler7aSv** - `Member of the BlocksDeveloperTeam`
+* **iHDeveloper** - `Member of the BlocksDeveloperTeam`
+* **vA7mad_** - `Moderator at BlocksMC`
+* **Aliiyah** - `Member of BlocksMC and positive person`
