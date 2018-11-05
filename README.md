@@ -16,7 +16,7 @@ In order for you to run this plugin in your own server, you are required to use 
 ## Credits
 Project members:
 * **ChristolisOfficial** - `Programmer, Sr. Project Manager`
-* **DeZiMatorZ** - `Producer, Project Manager`
+* **DeZiMatorZ** - `Producer, Retired Project Manager`
 
 Thanks to:
 * **Entwickler7aSv**
