@@ -13,10 +13,10 @@ In order for you to run this plugin in your own server, you are required to use 
 * Four configurable teams.
 * Customizable chat emojis.
 
-## Credits.
+## Credits
 Project members:
-* **ChristolisOfficial** - Programmer, Sr. Project Manager
-* **DeZiMatorZ** - Producer, Project Manager
+* **ChristolisOfficial** - `Programmer, Sr. Project Manager`
+* **DeZiMatorZ** - `Producer, Project Manager`
 
 Thanks to:
 * **Entwickler7aSv**
