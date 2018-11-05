@@ -1,0 +1,3 @@
+; Das ist ein komment.
+
+LANGUAGE_SET=&aErfolgreich auf Englisch umgestellt!

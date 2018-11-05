@@ -1,0 +1,21 @@
+main: me.blocksmc.annihilation.Main
+version: 0.0
+name: Annihilation
+
+commands:
+ start:
+  description: Debug command.
+ spawn:
+  description: Teleports you to the lobby's spawnpoint.
+ team:
+  description: Gets you in a team.
+ fly:
+  description: Makes you able to fly like a bird.
+ annirestart:
+  description: Restarts the server.
+ ping:
+  description: Shows your ping.
+ win:
+  description: Wins the game. (Debug)
+ start:
+  description: Starts the game if hasn't started yet. (Debug)
