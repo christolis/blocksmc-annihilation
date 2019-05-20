@@ -1,6 +1,6 @@
 # BlocksMC Annihilation
 ![Header](https://github.com/ChristolisOfficial/blocksmc-annihilation/blob/master/res/header.png)
-This is an abandoned project that was programmed by **ChristolisOfficial** and produced by **DeZiMatorZ** for the *BlocksMC server*. It was cancelled due to the producer having massive disagreements with the producer, and because the programmer lost his developer position in that server one day before this project was cancelled. You can still find and play in the *BlocksMC server*, by connecting to the IP `blocks.com` or `premium.blocksmc.com` if you have a legit copy of Minecraft, respectively.
+This is an abandoned project that was programmed by **ChristolisOfficial** and produced by **DeZiMatorZ** for the *BlocksMC server*. It was cancelled due to the producer having massive disagreements with the producer, and because the programmer lost his developer position in that server one day before this project was cancelled. You can still find and play in the *BlocksMC server*, by connecting to the IP `blocks.com`(for cracked users) or `premium.blocksmc.com`(for premium players).
 
 ## Requirements
 In order for you to export this plugin in your own, you are required to use the CraftBukkit API 1.8.8, which can be found [here](https://getbukkit.org/get/lZ6lfqphkPczgKPMdwAmF90p1rPRYPcC).
@@ -21,5 +21,3 @@ Project members:
 Thanks to:
 * **Entwickler7aSv** - `Member of the BlocksDeveloperTeam`
 * **iHDeveloper** - `Member of the BlocksDeveloperTeam`
-* **vA7mad_** - `Moderator at BlocksMC`
-* **Aliiyah** - `Member of BlocksMC and positive person`
